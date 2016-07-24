@@ -1,0 +1,21 @@
+Korrekturen
+images/privat/
+Noten/sib/
+
+*.sla.*
+*.indd
+*.docx
+*.txt
+*.xcf
+
+Cover.pdf
+
+Kaiser_HarmonielehreReloaded_release_2016-07-19-mAnschnitt.pdf
+Kaiser_HarmonielehreReloaded_release_2016-07-21-mAnschnitt.pdf
+Kaiser_HarmonielehreReloaded_release_2016-07-24-mAnschnitt.pdf
+
+
+# Office Temp Files
+~$*
+# vim Temp Files
+*~
